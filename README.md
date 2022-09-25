@@ -1,4 +1,4 @@
-[![MasterHead](https://liveblogspot.com/wp-content/uploads/2019/05/iOS-App-Development.png)
+![MasterHead](https://liveblogspot.com/wp-content/uploads/2019/05/iOS-App-Development.png)
 <h1 align="center">Hi 👋, I'm Medet</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
