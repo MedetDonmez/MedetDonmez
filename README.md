@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I believe in I am living perfect version of myself**
 
-<h2If you've been seeing few commits lately, it's because I use BitBucket. I work everyday.</h3>
+<h2>If you've been seeing few commits lately, it's because I use BitBucket. I work everyday.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
