@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I believe in I am living perfect version of myself**
 
+<h2If you've been seeing few commits lately, it's because I use BitBucket. I work everyday.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/medetdonmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medetdonmez" height="30" width="40" /></a>
